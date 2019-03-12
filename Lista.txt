@@ -5,8 +5,8 @@ Garbarino, Octavio (xxxxxx) -> Usuario Github: octaviogarbet
 Guillermo de Armas (guilleda) -> Usuario Github:
 Santiago Fernandez (sanfer94) -> Usuario Github:
 Rodrigo Duarte () -> Usuario Github:
-Agustina Somma () -> Usuario Github:
-Viviana Valente () -> Usuario Github:
+Agustina Somma (147330) -> Usuario Github: viviagus
+Viviana Valente (144424) -> Usuario Github: viviagus
 Federico Vilensky (185975) -> Usuario Github:fedevilensky
 Matías Settimo() -> Usuario Github:
 Federico Rainaldi () -> Usuario Github: federic23

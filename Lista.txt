@@ -4,7 +4,7 @@ Garbarino, Octavio (xxxxxx) -> Usuario Github: octaviogarbet
 
 Guillermo de Armas (guilleda) -> Usuario Github:
 Santiago Fernandez (sanfer94) -> Usuario Github:
-Rodrigo Duarte () -> Usuario Github:
+Rodrigo Duarte () -> Usuario Github:rodrigo0992
 Agustina Somma () -> Usuario Github:
 Viviana Valente () -> Usuario Github:
 Federico Vilensky (185975) -> Usuario Github:fedevilensky
@@ -19,8 +19,8 @@ Patrick Silveira  (213180) -> Usuario Github: SilsenP
 Sebastián Techera () -> Usuario Github:
 Paula Dufourt (178419) -> Usuario Github:Paudf
 Juan Ignacio Luraschi () -> Usuario Github:
-Germán García (207418) -> Usuario Github: germang13
-Rafael Torre (209743) -> Usuario Github: rafatorre97
+Germán García () -> Usuario Github: germang13
+Rafael Torre () -> Usuario Github: rafatorre97
 Ivan Gelta () -> Usuario Github:
 Williams García () -> Usuario Github: williamsdgr
 Federico Jacobo () -> Usuario Github: FedeJacobo

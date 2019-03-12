@@ -11,9 +11,9 @@ Federico Vilensky () -> Usuario Github:
 Matías Settimo() -> Usuario Github:
 Federico Rainaldi () -> Usuario Github:
 Gastón Vareilka () -> Usuario Github:
-Allyson Guinea () -> Usuario Github:
+Allyson Guinea (187340) -> Usuario Github:allyguinea
 German Castro  () -> Usuario Github:
-Micaela Dutra  () -> Usuario Github:
+Micaela Dutra  (185184) -> Usuario Github:micadutra
 Valentina Shalela () -> Usuario Github:
 Patrick Silveira  () -> Usuario Github:
 Sebastián Techera () -> Usuario Github:

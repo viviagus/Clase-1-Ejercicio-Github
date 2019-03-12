@@ -1,29 +1,29 @@
-﻿---------------Ejemplo------------------
+---------------Ejemplo------------------
 Garbarino, Octavio (xxxxxx) -> Usuario Github: octaviogarbet
 ----------------------------------------
 
-Guillermo De Armas () -> Usuario Github:
-Santiago Fernandez () -> Usuario Github:
+Guillermo de Armas (guilleda) -> Usuario Github:
+Santiago Fernandez (sanfer94) -> Usuario Github:
 Rodrigo Duarte () -> Usuario Github:
 Agustina Somma () -> Usuario Github:
 Viviana Valente () -> Usuario Github:
-Federico Vilensky () -> Usuario Github:
-Matías Settimo() -> Usuario Github:
-Federico Rainaldi () -> Usuario Github:
-Gastón Vareilka () -> Usuario Github:
-Allyson Guinea () -> Usuario Github:
-German Castro  () -> Usuario Github:
-Micaela Dutra  () -> Usuario Github:
+Federico Vilensky (185975) -> Usuario Github:fedevilensky
+Matías Settimo() -> Usuario Github: matias53
+Federico Rainaldi () -> Usuario Github: federic23
+Gastón Vareika (200998) -> Usuario Github:gvareika1997
+Allyson Guinea (187340) -> Usuario Github:allyguinea
+German Castro  (187553) -> Usuario Github: gercas77
+Micaela Dutra  (185184) -> Usuario Github:micadutra
 Valentina Chalela (212725) -> Usuario Github: Valentina-Ch
 Patrick Silveira  (213180) -> Usuario Github: SilsenP
 Sebastián Techera () -> Usuario Github:
-Paula Dufourt () -> Usuario Github:
+Paula Dufourt (178419) -> Usuario Github:Paudf
 Juan Ignacio Luraschi () -> Usuario Github:
-Germán García () -> Usuario Github:
-Rafael Torre () -> Usuario Github:
+Germán García (207418) -> Usuario Github: germang13
+Rafael Torre (209743) -> Usuario Github: rafatorre97
 Ivan Gelta () -> Usuario Github:
 William García () -> Usuario Github:
-Federico Jacobo () -> Usuario Github:
-Milena Zabaleta () -> Usuario Github:
-María Victoria Durán () -> Usuario Github:
-Rodrigo Pisani () -> Usuario Github:
+Federico Jacobo () -> Usuario Github: FedeJacobo
+Milena Zabaleta () -> Usuario Github: milezabaleta
+María Victoria Durán (210741) -> Usuario Github: vickyduran
+Rodrigo Pisani (202093) -> Usuario Github:rodrigoPisani

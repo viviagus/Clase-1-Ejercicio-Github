@@ -1,4 +1,4 @@
-﻿---------------Ejemplo------------------
+---------------Ejemplo------------------
 Garbarino, Octavio (xxxxxx) -> Usuario Github: octaviogarbet
 ----------------------------------------
 
@@ -12,7 +12,7 @@ Matías Settimo() -> Usuario Github:
 Federico Rainaldi () -> Usuario Github: federic23
 Gastón Vareilka () -> Usuario Github:
 Allyson Guinea (187340) -> Usuario Github:allyguinea
-German Castro  () -> Usuario Github:
+German Castro  (187553) -> Usuario Github: gercas77
 Micaela Dutra  (185184) -> Usuario Github:micadutra
 Valentina Chalela (212725) -> Usuario Github:Valentina-Ch
 Patrick Silveira  (213180) -> Usuario Github: psilsen
